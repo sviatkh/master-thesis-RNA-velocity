@@ -8,5 +8,6 @@ The study aims to investigate the impact of data integration approaches and cell
 The repository is structured as follows:
 main_analyses.ipynb - contains the main analyses of the study
 functions.py - contains the functions used in the main analyses
+scseq_env - conda environment with dependencies (from cluster)
 
 Data is available upon request.
